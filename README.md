@@ -26,26 +26,26 @@ Transform your focus sessions into a thriving digital forest ecosystem. Focus Gr
 ## 🛠️ Installation & Setup
 
 1. **Clone and install dependencies:**
-   \`\`\`bash
+   ```bash
    git clone <your-repo>
    cd focus-grove
    npm install
-   \`\`\`
+   ```
 
 2. **Run development server:**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 3. **Build for production:**
-   \`\`\`bash
+   ```bash
    npm run build
    npm start
-   \`\`\`
+   ```
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 focus-grove/
 ├── app/ # Next.js App Router
 │ ├── globals.css # Global styles with CSS variables
@@ -64,7 +64,7 @@ focus-grove/
 │ ├── constants.ts # App configuration
 │ └── utils.ts # Utility functions
 └── public/ # Static assets
-\`\`\`
+```
 
 ## 🎮 How to Use
 
